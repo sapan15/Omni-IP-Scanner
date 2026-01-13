@@ -1,0 +1,8 @@
+{
+  "name": "OmniScan Pro",
+  "description": "High-performance cross-platform network intelligence and IP scanner.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
